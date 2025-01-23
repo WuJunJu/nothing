@@ -1,0 +1,16 @@
+[
+  {
+    "model": "hunyuan-pro",
+    "type": "tokens",
+    "channel_type": 37,
+    "input": 2.1429,
+    "output": 7.1429
+  },
+  {
+    "model": "coze-*",
+    "type": "times",
+    "channel_type": 38,
+    "input": 0,
+    "output": 0
+  }
+]
