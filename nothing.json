@@ -1,2 +1,9 @@
 [
+  {
+    "model": "gpt-4o",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 1.5,
+    "output": 2.5
+  }
 ]
